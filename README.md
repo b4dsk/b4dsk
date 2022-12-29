@@ -1,6 +1,4 @@
-### Inter (badsk)
-
-Discord: `Inter#7414`
+### hi
 
 <!--
 **b4dsk/b4dsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
